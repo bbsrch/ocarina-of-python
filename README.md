@@ -73,3 +73,5 @@ python main.py
 ## Observações
 
 Este projeto foi desenvolvido como um projeto de estudo para praticar Python, Pygame, manipulação de eventos, organização de dados, temporização e lógica de reconhecimento de sequências.
+
+The Legend of Zelda: Ocarina of Time é propriedade da Nintendo. Este projeto não possui finalidade comercial.
