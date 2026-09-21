@@ -94,8 +94,6 @@ Contém os intervalos utilizados para sincronizar a exibição progressiva das n
 - Python 3.13.15
 - Pygame 2.6.1
 - Better Audio Editor
-- Git
-- GitHub
 
 ## Como executar
 
