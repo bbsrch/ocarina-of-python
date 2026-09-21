@@ -6,11 +6,11 @@ O projeto transforma uma ideia que mistura programação e música em uma aplica
 
 ## Funcionalidades
 
-### Modo Livre
+### 🍃 Modo Livre
 
 Permite tocar as notas livremente, sem que o programa tente reconhecer uma música.
 
-### Modo Músicas
+### 🎵 Modo Músicas
 
 O programa registra as notas tocadas e verifica continuamente se a sequência ainda pode corresponder ao início de alguma canção.
 
@@ -24,7 +24,7 @@ Quando a sequência completa é reconhecida:
 
 O reconhecimento também consegue aproveitar trechos finais de uma sequência. Isso permite mudar de uma música para outra no meio da execução sem precisar reiniciar manualmente toda a tentativa.
 
-### Livro de Canções
+### 📖 Livro de Canções
 
 Uma tela de consulta com as músicas disponíveis e suas respectivas sequências de notas.
 
